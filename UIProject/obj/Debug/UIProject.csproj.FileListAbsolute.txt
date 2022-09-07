@@ -1,0 +1,10 @@
+C:\Users\varad\source\repos\UIProject\UIProject\bin\Debug\UIProject.exe.config
+C:\Users\varad\source\repos\UIProject\UIProject\bin\Debug\UIProject.exe
+C:\Users\varad\source\repos\UIProject\UIProject\bin\Debug\UIProject.pdb
+C:\Users\varad\source\repos\UIProject\UIProject\obj\Debug\UIProject.csproj.AssemblyReference.cache
+C:\Users\varad\source\repos\UIProject\UIProject\obj\Debug\UIProject.Form1.resources
+C:\Users\varad\source\repos\UIProject\UIProject\obj\Debug\UIProject.Properties.Resources.resources
+C:\Users\varad\source\repos\UIProject\UIProject\obj\Debug\UIProject.csproj.GenerateResource.cache
+C:\Users\varad\source\repos\UIProject\UIProject\obj\Debug\UIProject.csproj.CoreCompileInputs.cache
+C:\Users\varad\source\repos\UIProject\UIProject\obj\Debug\UIProject.exe
+C:\Users\varad\source\repos\UIProject\UIProject\obj\Debug\UIProject.pdb
